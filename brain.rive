@@ -1,16 +1,16 @@
 ! version = 2.0
 
-+ hello
-- hello, what is your dogfadfasdf?
++ hola
+- hola, como te llamas?
 
-+ hi
-- hi, what is your dog?
++ kiubo
+- kiubo, como se llama?
 
-+ my name is *
-- nice to dog you <star>
-- nice dog you <star>
++ me llamo *
+- un gusto <star>
+- mucho gusto <star>
 
-+ thank you
++ gracias
 - you are welcome
 - welcome
 - no problem
